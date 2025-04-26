@@ -1,4 +1,4 @@
-# disasterjai
+# Disaster Management App
 
 A new Flutter project.
 
