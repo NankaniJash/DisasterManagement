@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "220917245131",
+    "project_id": "testing-3860d",
+    "storage_bucket": "testing-3860d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220917245131:android:be3bcd7f5cf4e6fb54274e",
+        "android_client_info": {
+          "package_name": "com.mycompany.alterego"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7y4ACGHnHj6KumUKJQ9iHB9h2q8BiHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220917245131:android:a79e9dd54c62515754274e",
+        "android_client_info": {
+          "package_name": "com.mycompany.fleet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7y4ACGHnHj6KumUKJQ9iHB9h2q8BiHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220917245131:android:aaf18e7f840f60f454274e",
+        "android_client_info": {
+          "package_name": "com.mycompany.maxrep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7y4ACGHnHj6KumUKJQ9iHB9h2q8BiHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
